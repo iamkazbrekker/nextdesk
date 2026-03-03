@@ -19,7 +19,7 @@ export default function ProductCard({
             <div className="absolute left-0 bottom-3 h-14 w-1.5 bg-blue-500 rounded-r-md" />
 
             {/* Heart Icon */}
-            <button className="absolute right-3 top-3 rounded-full border border-black bg-white p-1.5 z-50">
+            <button className="absolute right-3 top-3 rounded-full border border-black bg-white p-1.5 z-45">
                 <Heart className="h-4 w-4" />
             </button>
 

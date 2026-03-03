@@ -34,7 +34,7 @@ function Header() {
 
     return (
         <div>
-            <header className="flex flex-row gap-0.5 m-2.5 text-[#3a77ff] items-center pb-2">
+            <header className="flex flex-row gap-0.5 m-2.5 text-[#3a77ff] items-center pb-2 z-50">
                 <NavigationMenu>
                     <NavigationMenuList>
                         <NavigationMenuItem>
